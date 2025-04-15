@@ -26,14 +26,7 @@ ChestXray-Classification/
 ├── requirements.txt                 # Python dependencies
 ├── README.md                        # This file
 ├── .gitignore
-│
-├── test/                            # Test images (not uploaded; see below)
-│   ├── NORMAL/
-│   ├── PNEUMONIA/
-│   ├── TUBERCULOSIS/
-│   └── UNKNOWN/
-│
-└── images/                          # (Optional) Example images/results for documentation
+
 ```
 
 ---
@@ -126,8 +119,3 @@ This project uses **bootstrapping** to compute 95% confidence intervals for accu
 
 ---
 
-## License
-
-[MIT](LICENSE) (Add a LICENSE file if desired)
-
----
